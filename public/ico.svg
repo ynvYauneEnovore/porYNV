@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190.36 45.04">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MalgunGothic-Semilight, 'Malgun Gothic';
+        font-size: 39.8px;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        fill: aqua;
+        opacity: .15;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-1" transform="translate(58.34 35.22)"><tspan x="0" y="0">Y N V</tspan></text>
+    <path class="cls-2" d="m0,21.85C-.28,10.84,71.13-5.64,138.96,6.63c20.8,3.76,51.92,12.15,51.39,19.03-.63,8.24-46.38,10.82-57.1,11.42C75.69,40.32.28,33.13,0,21.85Z"/>
+  </g>
+  <text/>
+</svg>
